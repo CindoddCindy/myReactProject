@@ -29,7 +29,7 @@ const SplashScreen = props =>{
             />
             <Image
             source={require('../image_asset/logo_login.png')}
-            style={{width:80, height:180}}
+            style={{width:50, height:50}}
             />
         </View>
     );
